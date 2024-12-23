@@ -11,6 +11,7 @@ You are free to use, modify, and fork the project if you wish!
 > All the resources I used to help me make this project. These are basically the credits. There may be some duplicates links in the resource. For any links that look like youtube, simply replace the Invidious (https://github.com/iv-org/invidious) domain name to the youtube domain. 
 ---
 What is a Dialog Box (https://www.computerhope.com/jargon/d/dialogbo.htm)
+
 Dialog boxes (https://iv.ggtyler.dev/watch?v=EGDaMlZhOBk)
 What a MessageBox looks like (https://www.addictivetips.com/windows-tips/show-message-box-windows-10/)
 What are Controls (https://yewtu.be/watch?v=9JMQkUOhW1s&list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK&index=2)
