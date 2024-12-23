@@ -7,6 +7,10 @@ This was a project made by me to learn C/C++ and windows internals. I learned a 
 
 You are free to use, modify, and fork the project if you wish!
 
+## How to run
+
+If I remember correctly, you just need to open the Notepad2.sln file in Visual Studio, and build the solution. Then, you should be able to access the notepad program.
+
 # Resources
 > All the resources I used to help me make this project. These are basically the credits. There may be some duplicates links in the resource. For any links that look like youtube, simply replace the Invidious (https://github.com/iv-org/invidious) domain name to the youtube domain. 
 ---
