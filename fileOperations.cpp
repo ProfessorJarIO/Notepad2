@@ -1,19 +1,10 @@
 // fileOperations.cpp: Deals with creating, opening, writing, and reading files.
 
 // TODO: Use memory mapping files for read/write operations for faster I/O operations; Additionally, find a way to use buffering/chunks for loading large files
-
-#include <Windows.h>
-#include <tchar.h>
-#include <stdlib.h>
-#include <string>
-#include <commctrl.h>
-#include <iostream>
-#include <shobjidl_core.h>
-#include "resource.h"
+#include "commheaders.h"
 #include "memoryManagement.h"
 #include "fileFunctionality.h"
 #include "fileOperations.h"
-#include "main.h"
 
 // Checks to see if we are working with a file
 BOOL IsWorkingWithFile;

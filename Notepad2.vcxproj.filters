@@ -44,6 +44,9 @@
     <ClInclude Include="memoryManagement.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="commheaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Notepad2.rc">

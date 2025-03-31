@@ -1,17 +1,7 @@
 // FileOperations = Deals with opening and saving files
 // FileFunctionality = Functions that work with open files to perform a certain action
-#include <Windows.h>
-#include <tchar.h>
-#include <stdlib.h>
-#include <string>
-#include <commctrl.h>
-#include <iostream>
-#include <shobjidl_core.h>
-#include "resource.h"
-// #include "memoryManagement.h"
+#include "commheaders.h"
 #include "fileFunctionality.h"
-// #include "fileOperations.h"
-#include "main.h"
 
 
 // This function reverses a WCHAR string and puts that reversed string into "outStr" buffer the user provides.

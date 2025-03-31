@@ -1,15 +1,5 @@
-#include <Windows.h>
-#include <tchar.h>
-#include <stdlib.h>
-#include <string>
-#include <commctrl.h>
-#include <iostream>
-#include <shobjidl_core.h>
-#include "resource.h"
+#include "commheaders.h"
 #include "memoryManagement.h"
-// #include "fileFunctionality.h"
-// #include "fileOperations.h"
-#include "main.h"
 
 // This function frees up WM_UNDO/EM_UNDO buffer memory. If we don't do this, memory won't be freed until user types in a character, and deletes it. Pretty strange...
 void FreeUndoBufferMemory(HWND hEdit) {

@@ -1,17 +1,7 @@
 // main.cpp: Contains code that initalizes and creates our application
-
-#include <Windows.h>
-#include <tchar.h>
-#include <stdlib.h>
-#include <string>
-#include <commctrl.h>
-#include <iostream>
-#include <shobjidl_core.h>
-#include "resource.h"
-//#include "memoryManagement.h"
+#include "commheaders.h"
 #include "fileFunctionality.h"
 #include "fileOperations.h"
-#include "main.h"
 
 //#define _WIN32_WINNT 0x0600
 
