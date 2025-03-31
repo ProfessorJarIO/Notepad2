@@ -1,15 +1,23 @@
 # Notepad2
-Notepad2 was created using native Windows API (WinAPI) code. 
+> March 30th, 2025
+---
 
-You should have all the necessary files in order to run and compile the code, but if you do run into trouble, let me know and I will see if I need to add anything else... 
+## Images
+![Notepad Usage](https://github.com/ProfessorJarIO/Notepad2/blob/main/Notepad2-image1.jpg)
+![Notepad Usage](https://github.com/ProfessorJarIO/Notepad2/blob/main/Notepad2-image2.jpg)
 
-This was a project made by me to learn C/C++ and windows internals. I learned a lot throughout the course of this project. 
 
-You are free to use, modify, and fork the project if you wish!
+## Description
 
-## How to run
+Notepad2 was designed using only native Windows API code. It was made to resemble Microsoft's Notepad application. 
 
-If I remember correctly, you just need to open the Notepad2.sln file in Visual Studio, and build the solution. Then, you should be able to access the notepad program.
+## Why I created it
+
+This project was developed to help me understand C/C++ and windows internal concepts. After months of reading, understanding, and developing, I aver that I learned a lot about the Windows OS and its functionalities. 
+
+## How to run program
+
+Use the Notepad2.sln file provided to setup the program in Visaul Studio. Everything will be automatic, so you will need to build the solution once everything is setup.
 
 # Resources
 > All the resources I used to help me make this project. These are basically the credits. There may be some duplicates links in the resource. For any links that look like youtube, simply replace the Invidious (https://github.com/iv-org/invidious) domain name to the youtube domain. 
